@@ -3,7 +3,7 @@ import joblib
 import re
 
 # Load Model dan Vectorizer
-model = joblib.load("D:/KANAYA/e/a/kanaya/SEMESTER 6/MBKM/satu data/randomfor.pkl")
+model = joblib.load("randomfor.pkl")
 # vectorizer = joblib.load("vectorizer.pkl")
 
 # Fungsi Prediksi
